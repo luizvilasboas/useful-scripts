@@ -12,4 +12,4 @@ If you would like to contribute to this project, please feel free to open a merg
 
 ## License
 
-This project is licensed under the [MIT](https://gitlab.com/olooeez/useful-scripts/-/blob/main/LICENSE) License. See the LICENSE file for details.
+This project is licensed under the [MIT](https://github.com/luizvilasboas/useful-scripts/blob/main/LICENSE) License. See the LICENSE file for details.
